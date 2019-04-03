@@ -62,8 +62,6 @@
 {         "countryCode": "ZW",          "countryName":  "Zimbabwe", "coordinates": [ -19.16667,  26.5],          "name": "Hwange National Park",          "toponymName": "Hwange National Park"}
 {         "countryCode": "LK",          "countryName":  "Sri Lanka", "coordinates": [ 6.5142,  81.5423],          "name": "Yala National Park",          "toponymName": "Yala National Park"}
 {         "countryCode": "IN",          "countryName":  "India", "coordinates": [ 21.80387,  86.272],          "name": "Simlipal National Park",          "toponymName": "Simlipal National Park"}
-{         "countryCode": "ZW",          "countryName":  "Zimbabwe", "coordinates": [ -19.08333,  32.75],          "name": "Vumba National Park",          "toponymName": "Vumba National Park"}
-{         "countryCode": "ZW",          "countryName":  "Zimbabwe", "coordinates": [ -20.55734,  28.51259],          "name": "Rhodes Matopos National Park",          "toponymName": "Rhodes Matopos National Park"}
 {         "countryCode": "KE",          "countryName":  "Kenya", "coordinates": [ -0.10187,  37.34005],          "name": "Mount Kenya National Park",          "toponymName": "Mount Kenya National Park"}
 {         "countryCode": "KE",          "countryName":  "Kenya", "coordinates": [ -2.74553,  38.78174],          "name": "Tsavo National Park East",          "toponymName": "Tsavo National Park East"}
 {         "countryCode": "ZM",          "countryName":  "Zambia", "coordinates": [ -8.73795,  30.35763],          "name": "Sumbu National Park",          "toponymName": "Sumbu National Park"}
@@ -77,7 +75,7 @@
 {         "countryCode": "GR",          "countryName":  "Greece", "coordinates": [ 39.89525,  21.08311],          "name": "Pindus National Park",          "toponymName": "Pindus National Park"}
 {         "countryCode": "MG",          "countryName":  "Madagascar", "coordinates": [ -17.61237,  48.77947],          "name": "Zahamena National Park",          "toponymName": "Zahamena National Park"}
 {         "countryCode": "CR",          "countryName":  "Costa Rica", "coordinates": [ 10.83,  -85.32388],          "name": "Guanacaste National Park",       "toponymName": "Guanacaste National Park"}
-{                 "countryCode":"",             "countryName": "", "coordinates": [ 41.6,  6.25],               "name": "Saadani National Park",          "toponymName": "Saadani National Park"}
+{         "countryCode":"",             "countryName": "", "coordinates": [ 41.6,  6.25],               "name": "Saadani National Park",          "toponymName": "Saadani National Park"}
 {         "countryCode": "NG",          "countryName":  "Nigeria", "coordinates": [ 9.75443,  10.51032],          "name": "Yankari National Park",          "toponymName": "Yankari National Park"}
 {         "countryCode": "LT",          "countryName":  "Lithuania", "coordinates": [ 56.044,  21.889],          "name": "Zemaitija National Park",          "toponymName": "Zemaitija National Park"}
 {         "countryCode": "GE",          "countryName":  "Georgia", "coordinates": [ 41.69689,  41.88417],          "name": "Mtirala National Park",          "toponymName": "Mtirala National Park"}
